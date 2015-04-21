@@ -255,7 +255,7 @@ footer {
 }
 
 /* calculator css*/
-#operators a, #numbers a {
+#operators a, #numbers a, #total {
     padding:0;
     margin:0;
     font: 18px Arial, sans-serif;
